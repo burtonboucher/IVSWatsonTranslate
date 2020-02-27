@@ -2,7 +2,9 @@
     "name": "WatsonTranslator",
     "description": "Watson Translator for IBM Video Streaming",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-securedhttp": "1.0.10"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
