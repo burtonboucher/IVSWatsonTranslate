@@ -1,7 +1,7 @@
 {
     "name": "WatsonTranslator",
     "description": "Watson Translator for IBM Video Streaming",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dependencies": {
         "node-red-contrib-securedhttp": "1.0.10"
     },
